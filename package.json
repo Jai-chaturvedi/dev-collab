@@ -29,7 +29,7 @@
     "eject": "react-scripts eject"
   },
    "engines": {
-    "node": ">=16"
+    "node": ">=14"
   },
   "eslintConfig": {
     "extends": [
