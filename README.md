@@ -1,3 +1,6 @@
+#About : 
+ DevCollab is a platform build for realtime code and text sharing and editing .
+ It provides dedicated rooms with room ID for individuals to form groups in a collaborative environment.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
